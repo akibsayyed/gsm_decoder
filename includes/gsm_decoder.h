@@ -1,9 +1,4 @@
-/*
- * temp.h
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
+
 
 #ifndef GSM_DECODER_H_
 #define GSM_DECODER_H_

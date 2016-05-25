@@ -1,10 +1,3 @@
-//============================================================================
-// Name        : gsm_decoder.cpp
-// Author      : Akib Sayyed
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C, Ansi-style
-//============================================================================
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -15,17 +8,6 @@ uint32_t out_block_size = DEFAULT_BUF_LENGTH;
 char *filename="";
 FILE *file=NULL;
 
-/*
- *
- *
- *
- */
-/*
- * extra_functions.cpp
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
 
 #include<extra_functions.h>
 #include <gsm_constants.h>

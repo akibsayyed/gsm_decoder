@@ -1,9 +1,4 @@
-/*
- * sch.h
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
+
 
 #ifndef __SCH_H__
 #define __SCH_H__ 1

@@ -1,11 +1,3 @@
-/*
- * sch.c
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
-
-
 
 
 #include <stdio.h>

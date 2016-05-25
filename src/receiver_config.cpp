@@ -1,11 +1,3 @@
-/*
- * receiver_config.h
- *
- *  Created on: 25-May-2016
- *      Author: akib
- */
-
-
 
 
 /* -*- c++ -*- */

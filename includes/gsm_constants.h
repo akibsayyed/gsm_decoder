@@ -1,27 +1,8 @@
-/*
- * gsm_constants.h
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
-
-/*
- * gsm_constants.h
- *
- *  Created on: 20-Jul-2015
- *      Author: akib
- */
 
 #ifndef GSM_CONSTANTS_H_
 #define GSM_CONSTANTS_H_
 
 
-/*
- * gsm_constants.h
- *
- *  Created on: 20-Jul-2015
- *      Author: akib
- */
 
 /* -*- c++ -*- */
 /*

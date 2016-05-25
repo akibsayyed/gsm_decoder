@@ -1,15 +1,4 @@
-/*
- * receiver_config.h
- *
- *  Created on: 23-May-2016
- *      Author: akib
- */
-/*
- * receiver_config.h
- *
- *  Created on: 20-Jul-2015
- *      Author: akib
- */
+
 
 #ifndef RECEIVER_CONFIG_H_
 #define RECEIVER_CONFIG_H_
