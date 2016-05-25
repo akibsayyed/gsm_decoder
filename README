@@ -1,0 +1,2 @@
+Please compile sch.c seperately like
+gcc -c sch.c -o sch.o -I../includes
